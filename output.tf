@@ -5,6 +5,7 @@ output "demo-output" {
 
 output "demo-output-1" {
   value = "Hello-Guys"
+}
 
 output "demo-output-2" {
   value = "Please subscribe"
